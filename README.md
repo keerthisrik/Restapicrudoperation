@@ -1,1 +1,1 @@
-# Restapicrudoperation
+The **REST API CRUD** application enables seamless **Create, Read, Update, and Delete (CRUD)** operations using **RESTful web services**. It provides **endpoints for managing resources**, exchanging data in **JSON or XML** format. The API follows **HTTP methods (GET, POST, PUT, DELETE)** for efficient client-server communication.
